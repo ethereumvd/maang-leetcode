@@ -12,8 +12,10 @@ Included questions are from companies like:
 - Atlassian  
 - DE Shaw  
 - Goldman Sachs  
-- JP Morgan  
+- Morgan Stanley
+- Jane Street 
+- Jump Trading
 
 ---
 
-Credits: [liquidslr](https://github.com/liquidslr/leetcode-company-wise-problems)
+Data has been taken from : [liquidslr](https://github.com/liquidslr/leetcode-company-wise-problems)
